@@ -1,0 +1,7 @@
+*.pyc
+*.blend1
+*.~
+*.old
+.idea
+gym-env/src/scripts/surgical_robotics_challenge.egg-info/
+gym-env/logs/
